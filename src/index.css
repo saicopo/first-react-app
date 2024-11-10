@@ -5,7 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 50vh;
 }
+img{height: 330px;
+width: 330px!important}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
